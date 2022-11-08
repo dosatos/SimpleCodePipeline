@@ -1,8 +1,8 @@
 {
-  "name": "simple_code_pipeline",
+  "name": "SimpleCodePipeline",
   "version": "0.1.0",
   "bin": {
-    "simple_code_pipeline": "bin/simple_code_pipeline.js"
+    "simple_code_pipeline": "lib/app.js"
   },
   "scripts": {
     "build": "tsc",
